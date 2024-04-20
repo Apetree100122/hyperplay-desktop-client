@@ -1,9 +1,1 @@
-node_modules
-dist
-build
-coverage
-public/locales/
-flatpak
-extensions/
-doc
-sign/
+node_modules: "dist" buildcoverage: "public" / locales: / "flatpak_extensions"/ "docsign"/ 
